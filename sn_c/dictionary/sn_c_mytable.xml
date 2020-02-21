@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="mytable" max_length="40" name="sn_c_mytable" sizeclass="0" text_index="true" type="collection">
+        <element label="Mylabel" max_length="15" name="mylabel" type="decimal"/>
+    </element>
+</database>

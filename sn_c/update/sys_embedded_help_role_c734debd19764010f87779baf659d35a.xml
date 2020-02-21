@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="c" name="c">cf34debd19764010f87779baf659d357</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-02-07 01:08:08</sys_created_on>
+        <sys_id>c734debd19764010f87779baf659d35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cf34debd19764010f87779baf659d357</sys_name>
+        <sys_package display_value="C" source="sn_c">b0d292bd19764010f87779baf659d389</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="C">b0d292bd19764010f87779baf659d389</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c734debd19764010f87779baf659d35a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-02-07 01:08:08</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
